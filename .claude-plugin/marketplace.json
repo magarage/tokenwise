@@ -1,0 +1,14 @@
+{
+  "name": "tokenwise",
+  "owner": {
+    "name": "magarage",
+    "url": "https://github.com/magarage"
+  },
+  "plugins": [
+    {
+      "name": "tokenwise",
+      "source": ".",
+      "description": "Token-efficient web fetch for Claude Code via crawl4ai CLI"
+    }
+  ]
+}

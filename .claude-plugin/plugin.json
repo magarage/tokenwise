@@ -1,0 +1,13 @@
+{
+  "name": "tokenwise",
+  "version": "0.1.0",
+  "description": "Token-efficient web fetch for Claude Code via crawl4ai CLI",
+  "author": {
+    "name": "Insung Park",
+    "email": "magarage0702@gmail.com"
+  },
+  "homepage": "https://github.com/magarage/tokenwise",
+  "repository": "https://github.com/magarage/tokenwise",
+  "license": "Apache-2.0",
+  "keywords": ["claude-code", "plugin", "web-fetch", "crawl4ai", "token-optimization"]
+}
