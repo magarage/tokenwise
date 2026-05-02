@@ -1,14 +1,19 @@
 {
   "name": "tokenwise",
+  "description": "Devlopment marketplace for tokenwise",
   "owner": {
-    "name": "magarage",
-    "url": "https://github.com/magarage"
+    "name": "Insung Park",
+    "email": "magarage0702@gmail.com"
   },
   "plugins": [
     {
       "name": "tokenwise",
-      "source": ".",
-      "description": "Token-efficient web fetch for Claude Code via crawl4ai CLI"
+      "description": "Token-efficient skills for Claude Code",
+      "source": "./",
+      "author": {
+        "name": "Insung Park",
+        "email": "magarage0702@gmail.com"
+      }
     }
   ]
 }
